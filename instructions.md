@@ -49,4 +49,4 @@
 
 >### Информация по Markdown
 * Справочник по Markdown от Microsoft [Здесь](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
-* Пример кода MarkDown с превью [Здесь](https://markdownlivepreview.com/)
+* Пример кода Markdown с превью [Здесь](https://markdownlivepreview.com/)
