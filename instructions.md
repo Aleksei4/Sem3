@@ -5,9 +5,9 @@
 >__Git__ (произносится «гит») — распределённая система управления версиями. Проект был создан Линусом Торвальдсом для управления разработкой ядра Linux, первая версия выпущена 7 апреля 2005 года. На сегодняшний день его поддерживает Джунио Хамано.
 
 # Где скачать?
->Установка Git для Windows, MAC, Linux: (https://git-scm.com/downloads)
+>Установка Git для Windows, MAC, Linux: [Клик](https://git-scm.com/downloads)
 
->Установка VSCode для Windows, MAC, Linux: (https://code.visualstudio.com/Download)
+>Установка VSCode для Windows, MAC, Linux: [Клик](https://code.visualstudio.com/Download)
 
 # Первый запуск
 >При первом использовании Git необходимо представиться.  Для этого нужно ввести в терминале 2 команды:
@@ -41,3 +41,12 @@
 |__*git merge "Имя_ветки"*__|Слияние ветки с той, на которой вы находитесь"|
 |__*git stash clear*__|Очистка всех скрытых состояний"|
 |__*clear*__|Очистка терминала|
+
+>### Больше информации по Git
+* Здесь представлено большинство основных команд для Git, но не все.
+* Больше информации по командам Git [Здесь](https://git-scm.com/book/ru/v2)
+* Полезный тренажер с заданиями [Здесь](https://learngitbranching.js.org/)
+
+>### Информация по Markdown
+* Справочник по Markdown от Microsoft [Здесь](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+* Пример кода MarkDown с превью [Здесь](https://markdownlivepreview.com/)
